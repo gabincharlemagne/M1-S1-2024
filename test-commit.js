@@ -73,4 +73,3 @@ const MyPerson = { name: 'Alice', age: 25 };
 const MyResult = setAgeTo30(MyPerson);
 console.log(MyPerson);
 console.log(MyResult);
-
